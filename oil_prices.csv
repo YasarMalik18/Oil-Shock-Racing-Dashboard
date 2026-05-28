@@ -1,0 +1,85 @@
+Date,Oil_Price,Shock_Type,Shock_Magnitude
+2018-01-01,71.4,Demand Shock,8
+2018-02-01,69.12,Normal,59
+2018-03-01,71.29,Supply Shock,2
+2018-04-01,68.09,Normal,-33
+2018-05-01,66.37,Demand Shock,-59
+2018-06-01,68.47,Normal,32
+2018-07-01,66.22,Normal,42
+2018-08-01,65.81,Normal,-40
+2018-09-01,65.05,Supply Shock,18
+2018-10-01,63.78,Demand Shock,52
+2018-11-01,61.62,Normal,-52
+2018-12-01,59.87,Supply Shock,-17
+2019-01-01,56.95,Normal,45
+2019-02-01,58.29,Normal,57
+2019-03-01,60.33,Normal,-22
+2019-04-01,58.82,Normal,23
+2019-05-01,60.37,Supply Shock,44
+2019-06-01,60.49,Supply Shock,34
+2019-07-01,61.94,Supply Shock,50
+2019-08-01,60.68,Normal,1
+2019-09-01,62.34,Normal,44
+2019-10-01,60.03,Normal,-11
+2019-11-01,57.37,Normal,-34
+2019-12-01,58.14,Demand Shock,35
+2020-01-01,59.52,Demand Shock,-10
+2020-02-01,59.19,Supply Shock,18
+2020-03-01,59.59,Demand Shock,57
+2020-04-01,59.81,Supply Shock,56
+2020-05-01,60.11,Supply Shock,-20
+2020-06-01,63.24,Supply Shock,-58
+2020-07-01,61.8,Demand Shock,49
+2020-08-01,60.52,Supply Shock,-9
+2020-09-01,58.27,Normal,-5
+2020-10-01,56.0,Supply Shock,-59
+2020-11-01,58.93,Supply Shock,5
+2020-12-01,61.12,Supply Shock,-15
+2021-01-01,60.0,Normal,-57
+2021-02-01,58.51,Supply Shock,-29
+2021-03-01,60.47,Normal,-9
+2021-04-01,60.35,Demand Shock,-22
+2021-05-01,57.77,Normal,-47
+2021-06-01,57.7,Supply Shock,-33
+2021-07-01,54.92,Demand Shock,50
+2021-08-01,52.3,Supply Shock,48
+2021-09-01,55.09,Demand Shock,-10
+2021-10-01,59.4,Demand Shock,-1
+2021-11-01,60.04,Supply Shock,1
+2021-12-01,61.96,Normal,29
+2022-01-01,64.08,Normal,10
+2022-02-01,62.54,Supply Shock,-36
+2022-03-01,61.57,Demand Shock,51
+2022-04-01,62.5,Supply Shock,36
+2022-05-01,66.48,Normal,5
+2022-06-01,67.74,Supply Shock,-46
+2022-07-01,67.24,Normal,35
+2022-08-01,65.3,Supply Shock,59
+2022-09-01,64.54,Demand Shock,-56
+2022-10-01,63.26,Supply Shock,3
+2022-11-01,63.73,Normal,51
+2022-12-01,66.39,Demand Shock,37
+2023-01-01,70.81,Normal,25
+2023-02-01,71.05,Supply Shock,15
+2023-03-01,71.16,Demand Shock,3
+2023-04-01,75.04,Supply Shock,-36
+2023-05-01,75.89,Normal,-12
+2023-06-01,75.64,Normal,31
+2023-07-01,79.07,Demand Shock,-10
+2023-08-01,79.69,Normal,27
+2023-09-01,78.5,Normal,-28
+2023-10-01,76.52,Normal,-1
+2023-11-01,80.57,Normal,-45
+2023-12-01,76.3,Normal,-1
+2024-01-01,76.44,Demand Shock,17
+2024-02-01,75.13,Demand Shock,-55
+2024-03-01,73.8,Demand Shock,56
+2024-04-01,75.74,Demand Shock,-47
+2024-05-01,76.72,Demand Shock,33
+2024-06-01,75.12,Normal,-22
+2024-07-01,76.42,Normal,-56
+2024-08-01,75.33,Supply Shock,26
+2024-09-01,75.7,Supply Shock,38
+2024-10-01,74.21,Normal,-4
+2024-11-01,75.09,Demand Shock,15
+2024-12-01,80.74,Supply Shock,30
